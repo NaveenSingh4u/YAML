@@ -1,0 +1,13 @@
+ &module {
+  lastname: Singh,
+  year: 1982,
+  favorites: ["tennis","cricket"]
+  }
+  
+- person:
+    firstname: Naveen,
+    <<: *module
+- person:
+    firstname: Ankuj,
+    <<: *module
+    

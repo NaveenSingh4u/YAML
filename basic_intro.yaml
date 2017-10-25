@@ -1,0 +1,7 @@
+person:
+  firstname: Naveen
+  lastname: Singh
+  year: 1995
+  favorites:
+    - tennis
+    - cricket

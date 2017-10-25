@@ -1,0 +1,6 @@
+- person:
+    firstname: Naveen
+    favorites: &my_fav [tennis,cricket]
+- person:
+    firstname: Ankuj
+    favorites: *my_fav
